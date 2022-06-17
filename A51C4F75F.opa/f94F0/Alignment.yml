@@ -1,0 +1,22 @@
+segment_sources:
+  I63632F22:
+    type: origin_type
+    relation: translation
+    language: en
+  I562FD132:
+    type: origin_type
+    relation: translation
+    language: pt
+  IBD88DD88:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f1f25541d169472b8bd5b2e23dcb3fbc:
+    I63632F22: 3417459a3eef4035beafc1e39e5903e3
+    I562FD132: a90d23ff149f45c99d0130449dbb77b1
+    IBD88DD88: 4c16578b9c3c4e3baf14b5e8a593fb9e
+  e6c919dfec0f425db1f470adf203a9d1:
+    I63632F22: 0f4aa43bbb1a43d9a2e905f6eb845217
+    I562FD132: dd1e6a23416541858c127c966fd1bb8f
+    IBD88DD88: 05246f6ad6464b139150ddefc96e4356

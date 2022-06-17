@@ -1,0 +1,33 @@
+segment_sources:
+  I63632F22:
+    type: origin_type
+    relation: translation
+    language: en
+  I55A338F6:
+    type: origin_type
+    relation: translation
+    language: es
+  IBBF60CA9:
+    type: origin_type
+    relation: translation
+    language: fr
+  IBD88DD88:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  039289adacd64e02832e082c5a3c9361:
+    I63632F22: e7f285a19d734ed0872bc66c0afd6c63
+    I55A338F6: bc30796137eb498493b3524c09dfb57e
+    IBBF60CA9: 328eff673ca248f4b84f261ce5a7c1fd
+    IBD88DD88: 7f0c7eb4db4f4f8cabd89bbe101e3d0f
+  7f74da085225407090b23a8d30ea8eba:
+    I63632F22: 962267d6415b4649821945cf489670b3
+    I55A338F6: aa13585ddb40430eb80571f78f1baf6d
+    IBBF60CA9: 98bdd83f296b459287f53c9e04d1da74
+    IBD88DD88: 6d97347885914088bff8640a2fcc1bed
+  44c4b185ad714175a21a2caad35a5d45:
+    I63632F22: 52fe4c1bc41c478c841ffe3c908120ed
+    I55A338F6: 2e0b379718ff455ea12e24284b455eb5
+    IBBF60CA9: 718b53361f964c65943955748ba38f09
+    IBD88DD88: 0aa14e09dcdb4e2784de9c3e75597ca1
